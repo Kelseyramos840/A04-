@@ -1,12 +1,10 @@
-A04
-<!Doctype html>
 <html>
 <head> 
-	<title> My First Web Page</title> 
+	<h1> My First Web Page</h1> 
 </head>
 <body>
-	<h1>Kelsey Ramos</h1>
-	<h2>Course Name:IS117</h2>
-	<h3>Section:002</h3>
+	<p>Kelsey Ramos</p>
+	<p>Course Name:IS117</p>
+	<p>Section:002</p>
 </body>
 </html>	
